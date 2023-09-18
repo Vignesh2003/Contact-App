@@ -1,4 +1,4 @@
-#TechHive Internship
+##TechHive Internship
 
 - Clone all the files
 - run "npm start"
